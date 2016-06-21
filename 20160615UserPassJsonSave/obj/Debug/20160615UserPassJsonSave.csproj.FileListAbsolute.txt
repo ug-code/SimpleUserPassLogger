@@ -1,0 +1,11 @@
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\bin\Debug\20160615UserPassJsonSave.exe.config
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\bin\Debug\20160615UserPassJsonSave.exe
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\bin\Debug\20160615UserPassJsonSave.pdb
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\20160615UserPassJsonSave.csprojResolveAssemblyReference.cache
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\_20160615UserPassJsonSave.Form1.resources
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\_20160615UserPassJsonSave.Properties.Resources.resources
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\20160615UserPassJsonSave.csproj.GenerateResource.Cache
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\20160615UserPassJsonSave.exe
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\obj\Debug\20160615UserPassJsonSave.pdb
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\bin\Debug\Newtonsoft.Json.dll
+c:\users\uur\documents\visual studio 2015\Projects\20160615UserPassJsonSave\20160615UserPassJsonSave\bin\Debug\Newtonsoft.Json.xml
